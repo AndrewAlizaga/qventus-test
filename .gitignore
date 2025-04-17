@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual env & files
+.venv/
+env/
+
+# macOS junk
+.DS_Store
+
+# VSCode project settings
+.vscode/
+
+# Python cache
+*.pyc
+
+# DB
+*.db
